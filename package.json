@@ -1,0 +1,19 @@
+{
+    "name": "tsc",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "[For the latest docs](https://www.typescriptlang.org/docs/)",
+    "type": "module",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.3"
+    },
+    "dependencies": {
+        "inquirer": "^8.0.0"
+    }
+}
